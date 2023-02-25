@@ -88,3 +88,8 @@ div.relative {
     padding: 20px;
     width: 310px;
 }
+body {
+color:black;
+background-color:white;
+background-image:url(images/fond camo.png);
+}
